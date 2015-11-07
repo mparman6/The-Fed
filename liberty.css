@@ -6,6 +6,7 @@ header {
 	background-color: blue;
 	text-align: center;
 	border: 3px solid;
+	padding-bottom: 50px;
 }
 
 nav {
@@ -16,6 +17,7 @@ nav {
     margin-left: 385px;
     margin-right:155px;
     margin-top:30px;
+    padding: 10px;
 }
 
 li {
@@ -61,10 +63,6 @@ footer {
 	text-align: center;
 }
 
-a {
-	color: #1AEB40;
-}
-
 #link {
 	font-size: 30px;
 	position: relative;
@@ -77,4 +75,8 @@ a {
 
 #bottom {
 	width: 300px;
+}
+
+#nav-color {
+	color: #1AEB40
 }
